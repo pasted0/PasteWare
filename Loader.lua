@@ -1,4 +1,4 @@
--->> Hello Hope You Enjoy Shitty Code Thats Not That Readable <<-- 
+-->> Hello Hope You Enjoy Shitty Code Thats Not Readable <<-- 
 
 if isfolder "PasteWare" and isfile "PasteWare/Loader.lua" then
   if isfile "PasteWare/" .. game.PlaceId .. ".lua" then
